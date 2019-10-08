@@ -7,7 +7,7 @@ Para correr la app :
 
 2 instalar librerias de python
 
-2 export FLASK_APP= "directy to applogin", FLASk_ENV=development
+2 export FLASK_APP="directory to applogin", FLASK_ENV=development
 
 3 flask run
 Usar en la linea de comando:
