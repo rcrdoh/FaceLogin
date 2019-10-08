@@ -9,5 +9,5 @@ Para correr la app :
 
 2 export FLASK_APP="directory to applogin", FLASK_ENV=development
 
-3 flask run
-Usar en la linea de comando:
+3 flask run (en linea  de comando)
+
